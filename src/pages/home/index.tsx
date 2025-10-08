@@ -68,7 +68,7 @@ export function Home() {
 
     return (
         <div className="flex flex-col items-center justify-center w-full py-4  ">
-            <h1 className=" text-4xl font-bold text-white mt-20">Social Links</h1>
+            <h1 className=" text-4xl font-bold text-white mt-20">Mateus | Dev Links</h1>
             <span className="text-gray-50 mb-5 mt-3 font-medium"> Veja meus links 👇🏻</span>
 
             <main className="flex flex-col mt-20 w-11/12 max-w-lg text-center">
